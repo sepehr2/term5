@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "MyFont";
+    src: url('../fonts/Shadows_Into_Light/ShadowsIntoLight-Regular.ttf') format("truetype");
+}
+h1{
+    font-family: "Courier New", Courier, monospace;
+    font-style: italic;
+}
+p{
+    font-family: 'Bevan';
+}
+h2{
+    font-family: MyFont;
+}
+a:hover{
+    color: green;
+}
+a:visited{
+    color:blue;
+}
+a:active{
+    color: white;
+}
