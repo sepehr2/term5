@@ -1,0 +1,48 @@
+
+header{
+    background-color: rgb(49, 0, 95);
+    color: gray;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+}
+aside{
+    float:right;
+    background-color: rgb(102, 101, 121);
+    width: 30%;
+    height:500px;
+
+}
+article{
+    float: left;
+    background-color: rgb(81, 81, 133);
+    width: 70%;
+    height:500px;
+}
+footer{
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+
+}
+a{
+    color:yellow;
+    text-decoration: none;
+}
+ul{
+    direction: rtl;
+}
+@media (max-width:600px) {
+    aside{
+        width: 100%;
+        height:auto;
+
+    }
+    article {
+        width: 100%;
+        height: auto;
+    }
+}
+img:hover{
+    width:60px;
+}
