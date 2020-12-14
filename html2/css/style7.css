@@ -16,9 +16,15 @@ article{
     background-color:#6FC041;
     width:67%;
     float: left;
+    color:white;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
 }
 .twin{
-    background-color:#F3901A
+    background-color:#F3901A;
+    width: 67%;
+    padding: 50px;
 }
 footer{
     background-color: #0365C0;
