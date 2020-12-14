@@ -22,7 +22,47 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b44596b-2384-4528-9ca8-9611676f32ec" name="Default Changelist" comment="" />
+    <list default="true" id="5b44596b-2384-4528-9ca8-9611676f32ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../html1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html1/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html1/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html1/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html1/images/sEnemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/html2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Shadows_Into_Light/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Shadows_Into_Light/ShadowsIntoLight-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/python-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/telegram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sEnemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sPlayer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tamrin/tamrin1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +123,7 @@
       <workItem from="1607182061690" duration="3733000" />
       <workItem from="1607355116588" duration="3602000" />
       <workItem from="1607786613761" duration="4086000" />
-      <workItem from="1607960770354" duration="280000" />
+      <workItem from="1607960770354" duration="585000" />
     </task>
     <servers />
   </component>
@@ -100,6 +140,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi" />
   </component>
   <component name="WindowStateProjectService">
     <state x="541" y="207" key="FileChooserDialogImpl" timestamp="1607355338298">

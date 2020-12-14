@@ -8,10 +8,12 @@ header{
 }
 aside{
     background-color: #B36AE2;
+    width:20%
 
 }
 article{
     background-color:#6FC041
+    width:40%
 }
 .twin{
     background-color:#F3901A
@@ -22,4 +24,9 @@ footer{
     width:100%;
     color:white;
     padding : 20px;
+}
+section{
+    margin-right:20% ;
+    margin-left: 20%;
+
 }
