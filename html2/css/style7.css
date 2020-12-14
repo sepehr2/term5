@@ -10,7 +10,10 @@ aside{
     float: right;
     background-color: #B36AE2;
     width:33%;
-
+    color:white;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
 }
 article{
     background-color:#6FC041;
@@ -23,8 +26,11 @@ article{
 }
 .twin{
     background-color:#F3901A;
-    width: 67%;
-    padding: 50px;
+    width: 50%;
+    color:white;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    text-align: center;
 }
 footer{
     background-color: #0365C0;
@@ -32,6 +38,7 @@ footer{
     width:100%;
     color:white;
     padding : 20px;
+    float:left;
 }
 section{
     margin-right:20% ;
