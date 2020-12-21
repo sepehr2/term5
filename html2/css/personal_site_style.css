@@ -1,3 +1,11 @@
+@font-face {
+    font-family: "MyFont";
+    src: url('../fonts/JetBrains_Mono/JetBrainsMono-Italic-VariableFont_wght.ttf') format("truetype");
+}
+@font-face {
+    font-family: "handwriting";
+    src: url('../fonts/Shadows_Into_Light/ShadowsIntoLight-Regular.ttf') format("truetype");
+}
 body{
     background-image: url('../images/1.jpg');
     background-repeat: no-repeat;
@@ -17,4 +25,6 @@ header{
     padding-top: 10px;
     padding-left: 200px;
     color: white;
+    font-family: MyFont;
+
 }
