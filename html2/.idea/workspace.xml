@@ -23,6 +23,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b44596b-2384-4528-9ca8-9611676f32ec" name="Default Changelist" comment="hi">
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/JetBrainsMono-Italic-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/JetBrainsMono-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JetBrains_Mono/static/JetBrainsMono-ThinItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_14_2020_19_39_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_14_2020_19_39__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/personal_site_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/personal_site_style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,16 +82,17 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\WebstormProjects\html2\images" />
-      <recent name="C:\Users\User\WebstormProjects\html2\tamrin" />
-      <recent name="C:\Users\User\WebstormProjects\html2\fonts\Shadows_Into_Light" />
-      <recent name="C:\Users\User\WebstormProjects\html2\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\WebstormProjects\html2\icon" />
       <recent name="C:\Users\User\WebstormProjects\html2\images" />
       <recent name="C:\Users\User\WebstormProjects\html2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\html2\fonts" />
+      <recent name="C:\Users\User\WebstormProjects\html2\images" />
+      <recent name="C:\Users\User\WebstormProjects\html2\tamrin" />
+      <recent name="C:\Users\User\WebstormProjects\html2\fonts\Shadows_Into_Light" />
+      <recent name="C:\Users\User\WebstormProjects\html2\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -89,6 +113,7 @@
       <workItem from="1608564325767" duration="445000" />
       <workItem from="1608564899932" duration="1418000" />
       <workItem from="1608566753252" duration="1776000" />
+      <workItem from="1608568566985" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1607961378576</created>
@@ -181,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608568319416</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="hi">
+      <created>1608568901060</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608568901060</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,10 +256,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="101" y="15" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607789494577" />
-    <state x="0" y="87" key="Vcs.Push.Dialog.v2" timestamp="1608568323760">
+    <state x="0" y="87" key="Vcs.Push.Dialog.v2" timestamp="1608568902890">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="87" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608568323760" />
+    <state x="0" y="87" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608568902890" />
     <state x="159" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607963637718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
