@@ -1,11 +1,29 @@
 @font-face {
-    font-family: "MyFont";
+    font-family: "Title";
     src: url('../fonts/JetBrains_Mono/JetBrainsMono-Italic-VariableFont_wght.ttf') format("truetype");
 }
 @font-face {
     font-family: "handwriting";
     src: url('../fonts/Shadows_Into_Light/ShadowsIntoLight-Regular.ttf') format("truetype");
 }
+@font-face {
+    font-family: "Luxary";
+    src: url('../fonts/Lora/Lora-Italic-VariableFont_wght.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "super_cringe";
+    src: url('../fonts/Fredoka_One/FredokaOne-Regular.ttf') format("truetype");
+}
+@font-face {
+    font-family: "super-bold";
+    src: url('../fonts/Anton/Anton-Regular.ttf') format("truetype");
+}
+@font-face {
+    font-family: "fancy-words";
+    src: url('../fonts/Lobster/Lobster-Regular.ttf') format("truetype");
+}
+
 body{
     background-image: url('../images/1.jpg');
     background-repeat: no-repeat;
@@ -25,6 +43,22 @@ header{
     padding-top: 10px;
     padding-left: 200px;
     color: white;
-    font-family: MyFont;
+    font-family: Title;
+    float:left;
+
+}
+nav{
+    float:right;
+    padding-top: 10px;
+    padding-right: 200px;
+    word-spacing: 10px;
+}
+.nav-link{
+    color: white;
+    text-decoration: none;
+
+
+
+
 
 }
