@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b44596b-2384-4528-9ca8-9611676f32ec" name="Default Changelist" comment="hi" />
+    <list default="true" id="5b44596b-2384-4528-9ca8-9611676f32ec" name="Default Changelist" comment="hi">
+      <change beforePath="$PROJECT_DIR$/tamrin/personal_site.html" beforeDir="false" afterPath="$PROJECT_DIR$/tamrin/personal_site.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
