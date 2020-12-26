@@ -53,12 +53,20 @@ nav{
     padding-right: 200px;
     word-spacing: 10px;
 }
-.nav-link{
+.nav-link {
     color: white;
     text-decoration: none;
-
-
-
-
+}
+title{
+    color: white;
 
 }
+.front-end{
+    font-family: fancy-words;
+    font-size: 40px;
+}
+
+
+
+
+
