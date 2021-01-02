@@ -10,7 +10,6 @@
     font-family: "Luxary";
     src: url('../fonts/Lora/Lora-Italic-VariableFont_wght.ttf') format("truetype");
 }
-
 @font-face {
     font-family: "super_cringe";
     src: url('../fonts/Fredoka_One/FredokaOne-Regular.ttf') format("truetype");
@@ -33,7 +32,7 @@ body{
 }
 .main{
     width: 100%;
-    height:630px;
+    height:615px;
     background-color: rgba(0, 0, 0, 0.767);
 
 }
@@ -57,13 +56,16 @@ nav{
     color: white;
     text-decoration: none;
 }
-title{
+.title{
     color: white;
-
+    font-size:40px;
+    display: block;
+    padding-top: 280px;
+    padding-left: 200px;
 }
 .front-end{
     font-family: fancy-words;
-    font-size: 40px;
+
 }
 
 
