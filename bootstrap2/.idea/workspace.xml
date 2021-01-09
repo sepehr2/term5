@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7349f620-a754-42a8-a6d8-734aa877ab3e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7349f620-a754-42a8-a6d8-734aa877ab3e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +70,7 @@
       <workItem from="1609604011313" duration="1192000" />
       <workItem from="1609605537291" duration="87000" />
       <workItem from="1609605656206" duration="167000" />
-      <workItem from="1610205969892" duration="1036000" />
+      <workItem from="1610205969892" duration="1443000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1609604030614</created>
@@ -102,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609605056824</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hi">
+      <created>1610207124397</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610207124397</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hi">
+      <created>1610207374256</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610207374256</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,13 +137,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="hi" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="778" y="191" key="#Notifications" timestamp="1610207405591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="778" y="191" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1610207405591" />
     <state x="29" y="0" key="SettingsEditor" timestamp="1609605736590">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="29" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609605736590" />
-    <state x="550" y="87" key="Vcs.Push.Dialog.v2" timestamp="1609605059761">
+    <state x="550" y="87" key="Vcs.Push.Dialog.v2" timestamp="1610207376204">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="87" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609605059761" />
+    <state x="550" y="87" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610207376204" />
   </component>
 </project>
