@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7349f620-a754-42a8-a6d8-734aa877ab3e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/table.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,24 +42,37 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1mWKSUNSixqYryt9NZdbsDSKIuy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\bootstrap2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.form.html">
+    <configuration name="form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap2/test/form.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="hi.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap2/hi.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.form.html" />
         <item itemvalue="JavaScript Debug.hi.html" />
       </list>
     </recent_temporary>
@@ -74,6 +91,9 @@
       <workItem from="1609605656206" duration="167000" />
       <workItem from="1610205969892" duration="1702000" />
       <workItem from="1610207748237" duration="1787000" />
+      <workItem from="1610209573906" duration="329000" />
+      <workItem from="1610811483209" duration="1651000" />
+      <workItem from="1610813179057" duration="936000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1609604030614</created>
@@ -145,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610209409958</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="hi">
+      <created>1610209797947</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610209797947</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +195,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="hi" />
     <option name="LAST_COMMIT_MESSAGE" value="hi" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
@@ -183,10 +211,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="103" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610209288002" />
-    <state x="550" y="87" key="Vcs.Push.Dialog.v2" timestamp="1610209412196">
+    <state x="550" y="87" key="Vcs.Push.Dialog.v2" timestamp="1610209799895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="87" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610209412196" />
+    <state x="550" y="87" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610209799895" />
     <state x="680" y="164" key="run.anything.popup" timestamp="1610208547448">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
