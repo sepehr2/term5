@@ -23,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b44596b-2384-4528-9ca8-9611676f32ec" name="Default Changelist" comment="hi">
+      <change afterPath="$PROJECT_DIR$/../bootstrap2/test/birth day.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bootstrap2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap2/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/content.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +97,7 @@
       <workItem from="1609600456803" duration="1637000" />
       <workItem from="1609602193123" duration="1573000" />
       <workItem from="1610209585427" duration="12000" />
+      <workItem from="1610987520996" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1607961378576</created>

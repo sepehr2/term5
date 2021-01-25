@@ -19,7 +19,59 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7349f620-a754-42a8-a6d8-734aa877ab3e" name="Default Changelist" comment="" />
+    <list default="true" id="7349f620-a754-42a8-a6d8-734aa877ab3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/border.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local-bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Get_In_Touch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/birth_day.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../html2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +80,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -49,15 +102,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\bootstrap2\bootstrap5" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\WebstormProjects\bootstrap2" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.form.html">
+  <component name="RunManager" selected="JavaScript Debug.birth_day.html">
+    <configuration name="birth_day.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap2/test/birth_day.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap2/test/form.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -66,6 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.birth_day.html" />
         <item itemvalue="JavaScript Debug.form.html" />
         <item itemvalue="JavaScript Debug.hi.html" />
       </list>
@@ -87,7 +148,13 @@
       <workItem from="1610207748237" duration="1787000" />
       <workItem from="1610209573906" duration="329000" />
       <workItem from="1610811483209" duration="1651000" />
-      <workItem from="1610813179057" duration="1238000" />
+      <workItem from="1610813179057" duration="1715000" />
+      <workItem from="1610984168893" duration="1677000" />
+      <workItem from="1610985990882" duration="1772000" />
+      <workItem from="1610987808235" duration="953000" />
+      <workItem from="1611416133843" duration="1492000" />
+      <workItem from="1611417703218" duration="1650000" />
+      <workItem from="1611420133388" duration="1086000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1609604030614</created>
@@ -173,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610814153780</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="hi">
+      <created>1610814711015</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610814711015</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,13 +286,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="103" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610209288002" />
-    <state x="550" y="87" key="Vcs.Push.Dialog.v2" timestamp="1610814158695">
+    <state x="550" y="87" key="Vcs.Push.Dialog.v2" timestamp="1610814713320">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="87" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610814158695" />
+    <state x="550" y="87" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610814713320" />
     <state x="680" y="164" key="run.anything.popup" timestamp="1610208547448">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="680" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1610208547448" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1610988383552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1610988383552" />
   </component>
 </project>
