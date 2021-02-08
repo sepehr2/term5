@@ -20,57 +20,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7349f620-a754-42a8-a6d8-734aa877ab3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap5/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/border.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local-bootstrap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Get_In_Touch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/birth_day.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/download (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/snowy-top-of-krivan-mountain-1080x720.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/.idea/javascript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/javascript2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/images/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/images/download (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/images/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/images/sEnemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/images/sPlayer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/images/snowy-top-of-krivan-mountain-1080x720.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/vue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/vue2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/work/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../html2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/border.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/border.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/download.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local-bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/local-bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Get_In_Touch.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/Get_In_Touch.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,17 +97,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\bootstrap2\images" />
+      <recent name="C:\Users\User\WebstormProjects\bootstrap2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\WebstormProjects\bootstrap2\bootstrap5" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\WebstormProjects\bootstrap2" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.birth_day.html">
@@ -155,6 +152,12 @@
       <workItem from="1611416133843" duration="1492000" />
       <workItem from="1611417703218" duration="1650000" />
       <workItem from="1611420133388" duration="1086000" />
+      <workItem from="1611586949396" duration="1410000" />
+      <workItem from="1611588714752" duration="1562000" />
+      <workItem from="1611590535433" duration="879000" />
+      <workItem from="1612020485542" duration="1667000" />
+      <workItem from="1612022231610" duration="897000" />
+      <workItem from="1612798825335" duration="188000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1609604030614</created>
@@ -247,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610814711015</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="hi">
+      <created>1611587431025</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611587431025</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,14 +292,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="778" y="191" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1610207405591" />
-    <state x="103" y="18" key="SettingsEditor" timestamp="1610209288002">
+    <state x="103" y="18" key="SettingsEditor" timestamp="1612022435146">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="103" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610209288002" />
-    <state x="550" y="87" key="Vcs.Push.Dialog.v2" timestamp="1610814713320">
+    <state x="103" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1612022435146" />
+    <state x="550" y="87" key="Vcs.Push.Dialog.v2" timestamp="1611587438317">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="87" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610814713320" />
+    <state x="550" y="87" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1611587438317" />
+    <state x="324" y="90" width="700" height="530" key="recent.locations.popup" timestamp="1612022648226">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="324" y="90" width="700" height="530" key="recent.locations.popup/0.0.1366.728@0.0.1366.728" timestamp="1612022648226" />
     <state x="680" y="164" key="run.anything.popup" timestamp="1610208547448">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

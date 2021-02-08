@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+</head>
+<body>
+
+<div id="app">
+    <div class="card"  v-for="users in users">
+        <div class="container">
+            <h4><b>{{users.name}} {{users.family}}</b></h4>
+            <p>{{users.position}}</p>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+<script>
+
+
+    var app = new Vue({
+        el: '#app',
+        data:{
+
+
+            users:[
+                    {name:"Mohamad", family:"mamadi", position:'Architect'},
+                    {name:"Ali", family:"mamadi", position:'Architect'},
+                    {name:"Hossein", family:"mamadi", position:'Architect'},
+            ]
+        }
+    })
+
+
+</script>
+
+</body>
+</html>

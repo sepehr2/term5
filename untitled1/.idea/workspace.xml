@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1625a46-66fb-43ea-8bcc-ddccab1fbf80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bootstrap2/cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap2/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap2/images/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap2/images/download (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap2/images/snowy-top-of-krivan-mountain-1080x720.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/.idea/javascript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/javascript2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript2/vue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap2/css/border.css" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/css/border.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap2/images/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/images/download.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap2/local-bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/local-bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap2/test/Get_In_Touch.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/test/Get_In_Touch.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1o79YU7DhJeZjNn0g43xpm6sgxT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1625a46-66fb-43ea-8bcc-ddccab1fbf80" name="Default Changelist" comment="" />
+      <created>1612626809199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612626809199</updated>
+      <workItem from="1612626811963" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
