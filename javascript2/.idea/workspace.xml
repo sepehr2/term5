@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4e13645-18a3-41b8-9dd8-41820b2c9828" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bootstrap2/cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap2/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap2/images/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap2/images/download (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap2/images/snowy-top-of-krivan-mountain-1080x720.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/.idea/javascript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/javascript2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/download (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sEnemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sPlayer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/snowy-top-of-krivan-mountain-1080x720.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap2/css/border.css" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/css/border.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap2/images/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/images/download.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap2/local-bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/local-bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap2/test/Get_In_Touch.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/test/Get_In_Touch.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1o79Pqwf8BbssnImnGu1jRF7epD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\javascript2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\javascript2\work" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4e13645-18a3-41b8-9dd8-41820b2c9828" name="Default Changelist" comment="" />
+      <created>1612626742012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612626742012</updated>
+      <workItem from="1612626743454" duration="1393000" />
+      <workItem from="1612628181795" duration="1395000" />
+      <workItem from="1612797516925" duration="1809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
