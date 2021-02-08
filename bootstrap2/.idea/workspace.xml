@@ -19,55 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7349f620-a754-42a8-a6d8-734aa877ab3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cards.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/download (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/snowy-top-of-krivan-mountain-1080x720.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/.idea/javascript.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/javascript2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/images/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/images/download (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/images/download.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/images/sEnemy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/images/sPlayer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/images/snowy-top-of-krivan-mountain-1080x720.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/vue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/vue2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/work/first.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/border.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/border.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/download.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local-bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/local-bootstrap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Get_In_Touch.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/Get_In_Touch.html" afterDir="false" />
-    </list>
+    <list default="true" id="7349f620-a754-42a8-a6d8-734aa877ab3e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,6 +110,7 @@
       <workItem from="1612020485542" duration="1667000" />
       <workItem from="1612022231610" duration="897000" />
       <workItem from="1612798825335" duration="188000" />
+      <workItem from="1612799663441" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1609604030614</created>
