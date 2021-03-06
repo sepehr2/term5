@@ -19,39 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0d898b7-8657-41cd-8fb3-4b8a7f05708f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bootstrap2/cards.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bootstrap2/carousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bootstrap2/images/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bootstrap2/images/download (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bootstrap2/images/snowy-top-of-krivan-mountain-1080x720.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/javascript.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue1/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue1/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue1/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue1/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue1/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue1/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue1/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue1/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/javascript2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript2/vue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap2/css/border.css" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/css/border.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap2/images/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/images/download.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap2/local-bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/local-bootstrap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap2/test/Get_In_Touch.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/test/Get_In_Touch.html" afterDir="false" />
-    </list>
+    <list default="true" id="b0d898b7-8657-41cd-8fb3-4b8a7f05708f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +66,16 @@
       <workItem from="1612194189388" duration="889000" />
       <workItem from="1612196003898" duration="1280000" />
       <workItem from="1612626503883" duration="153000" />
+      <workItem from="1612799676603" duration="22000" />
     </task>
+    <task id="LOCAL-00001" summary="hi">
+      <created>1612799688401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612799688401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,5 +95,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="hi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1612799690061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1612799690061" />
   </component>
 </project>

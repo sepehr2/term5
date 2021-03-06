@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="vue.min.js" type="text/javascript"></script>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+
+<div id="app">
+    <div class="container">
+        <div>
+            <label for="id_header">Name:
+                <input v-model="my_car.my_header" class="form-control" id="id_header" name="header" type="text" placeholder="Name">
+            </label>
+            <br>
+            <label for="id_family">Familly:
+                <input v-model="my_car.my_family" class="form-control" id="id_family" name="family" type="text" placeholder="Family">
+            </label>
+            <br>
+            <label for="id_job">Job:
+                <input v-model="my_car.my_job" class="form-control" id="id_job" name="job" type="text" placeholder="Job">
+            </label>
+            <input @click="set_car(my_car.my_header, my_car.my_family, my_car.my_job)" class="btn btn-success" type="submit" value="Create Card">
+        
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row mt-5">
+            <div  v-for="(card, i) in my_cars" class="col-sm-4">
+
+                <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                    <h4 class="my-0 fw-normal"><a style="color: gray">Name:</a> {{ card.header }}</h4>
+                </div>
+                <div class="card-body">
+                    <h1 class="card-title pricing-card-title"><a style="color: gray">Family:</a> {{ card.family }}</h1>
+                    <p><a style="color: gray">Job:</a> {{card.job}}</p>
+                </div>
+                </div>
+            </div>
+
+
+
+
+            
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!--<div class="row">-->
+<!--    <div class="col-sm-6">-->
+<!--        <div class="card">-->
+<!--            <div class="card-body">-->
+<!--                <h5 class="card-title">Special title treatment</h5>-->
+<!--                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>-->
+<!--                <a href="#" class="btn btn-primary">Go somewhere</a>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
+
+
+
+
+
+
+
+
+
+
+    <script type="text/javascript">
+        var app = new Vue({
+            el: '#app',
+            data: {
+
+
+                my_car:{
+                    my_header: '',
+                    my_family: '',
+                    my_job: '',
+                },
+
+                my_cars: [],
+
+
+            },
+            methods: {
+
+                set_car(header, family, job){
+                    car = {header, family, job}
+                    if(this.my_car.my_header !== "" && this.my_car.my_family !== ""  && this.my_car.my_job !== "" ){
+                        this.my_cars.push(car)
+                    }
+                    this.my_car.my_header = ""
+                    this.my_car.my_family = ""
+                    this.my_car.my_job = ""
+                }
+            },
+        })
+    </script>
+</body>
+</html>

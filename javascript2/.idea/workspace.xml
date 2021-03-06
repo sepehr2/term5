@@ -20,53 +20,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4e13645-18a3-41b8-9dd8-41820b2c9828" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bootstrap2/cards.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bootstrap2/carousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bootstrap2/images/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bootstrap2/images/download (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bootstrap2/images/snowy-top-of-krivan-mountain-1080x720.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/.idea/javascript.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/vue1/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/javascript2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/download (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/download.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sEnemy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sPlayer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/snowy-top-of-krivan-mountain-1080x720.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/first.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bootstrap2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap2/css/border.css" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/css/border.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap2/images/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/images/download.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap2/local-bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/local-bootstrap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap2/test/Get_In_Touch.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap2/test/Get_In_Touch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/first.html" beforeDir="false" afterPath="$PROJECT_DIR$/work/first.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,12 +101,23 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\javascript2\work" />
+      <recent name="C:\Users\User\WebstormProjects\javascript2\resource" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\WebstormProjects\javascript2" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\WebstormProjects\javascript2\work" />
-    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ToDoList.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascript2/ToDoList.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.ToDoList.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -115,7 +130,41 @@
       <workItem from="1612626743454" duration="1393000" />
       <workItem from="1612628181795" duration="1395000" />
       <workItem from="1612797516925" duration="1809000" />
+      <workItem from="1612799392177" duration="1606000" />
+      <workItem from="1612801225307" duration="853000" />
+      <workItem from="1613230262121" duration="1619000" />
+      <workItem from="1613232188053" duration="1456000" />
+      <workItem from="1613234049972" duration="587000" />
+      <workItem from="1613403380468" duration="1770000" />
+      <workItem from="1613405189198" duration="1558000" />
+      <workItem from="1613834234398" duration="995000" />
+      <workItem from="1613836034345" duration="1451000" />
+      <workItem from="1613837885641" duration="1137000" />
+      <workItem from="1614007170464" duration="1216000" />
+      <workItem from="1614008910492" duration="1774000" />
+      <workItem from="1614010741202" duration="830000" />
+      <workItem from="1614439996685" duration="1624000" />
+      <workItem from="1614441828930" duration="1311000" />
+      <workItem from="1614443663483" duration="434000" />
+      <workItem from="1614614233938" duration="1553000" />
+      <workItem from="1614615963190" duration="739000" />
+      <workItem from="1615044756041" duration="398000" />
     </task>
+    <task id="LOCAL-00001" summary="hi">
+      <created>1612799613924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612799613924</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hi">
+      <created>1612799643498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612799643498</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,5 +181,83 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="659" height="222" key="GridCell.Tab.0.bottom" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.0.center" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.0.left" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.0.right" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.1.bottom" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.1.center" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.1.left" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.1.right" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.2.bottom" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.2.center" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.2.left" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.2.right" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.3.bottom" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.3.center" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.3.left" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state width="659" height="222" key="GridCell.Tab.3.right" timestamp="1613406785665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="222" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1613406785665" />
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1612799645221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1612799645221" />
+    <state x="680" y="166" key="run.anything.popup" timestamp="1613405219487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="680" y="166" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1613405219487" />
   </component>
 </project>
